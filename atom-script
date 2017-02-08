@@ -1,0 +1,6 @@
+//File grammars.coffee
+
+  AgentSpeak:
+    "File Based":
+      command: <path to mas2j.bat>
+      args: (context) -> [context.filepath]

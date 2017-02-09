@@ -2,5 +2,5 @@
 
   AgentSpeak:
     "File Based":
-      command: <path to mas2j.bat>
-      args: (context) -> [context.filepath]
+      command: "D:\\App\\Jason-2.0.beta\\bin\\mas2j.bat"
+      args: (context) -> [path.join(context.filepath, '..') + "\\bin\\build.xml"]

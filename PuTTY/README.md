@@ -5,7 +5,7 @@ Nothing special:
 And this result:
 ![PuTTY](https://user-images.githubusercontent.com/12986551/27772842-88489e06-5f6a-11e7-99fa-9f572d10611d.png?raw=true "Example")
 
-###zsh/oh-my-zsh
+### zsh/oh-my-zsh
 
     apt-get install zsh
     apt-get install oh-my-zsh
@@ -27,14 +27,14 @@ To enable syntax highlighting in the current interactive shell:
 
 ### Putty config
 
-####Automatically start tmux
+#### Automatically start tmux
 PuTTY > SSH > Remote command:
 
     which tmux >/dev/null 2>&1 && { tmux attach || tmux new -s default; } || bash -l
 
 You can find a beginner guide [here](https://apiumtech.com/blog/tmux-cheat-sheet-tips-tricks/) by @OscarGalindo
 
-####Configure a Powerline-compatible font
+#### Configure a Powerline-compatible font
 Any of [this](https://github.com/powerline/fonts) fonts can be used. Copy the `.ttf` file to `C:\Windows\Fonts`
 
 PuTTY > Appearance > Font settings > Change:

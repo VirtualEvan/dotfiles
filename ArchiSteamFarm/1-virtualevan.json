@@ -1,0 +1,32 @@
+{
+        "AcceptGifts": false,
+        "AutoDiscoveryQueue": true,
+        "CardDropsRestricted": false,
+        "CustomGamePlayedWhileFarming": null,
+        "CustomGamePlayedWhileIdle": null,
+        "DismissInventoryNotifications": true,
+        "Enabled": true,
+        "FarmingOrder": 0,
+        "FarmOffline": true,
+        "GamesPlayedWhileIdle": [],
+        "HandleOfflineMessages": false,
+        "IdleRefundableGames": true,
+        "IsBotAccount": false,
+        "LootableTypes": [],
+        "MatchableTypes": [
+                5
+        ],
+        "PasswordFormat": 1,
+        "Paused": false,
+        "RedeemingPreferences": 7,
+        "SendOnFarmingFinished": false,
+        "SendTradePeriod": 0,
+        "ShutdownOnFarmingFinished": false,
+        "SteamLogin": "",
+        "SteamMasterClanID": 103582791454908356,
+        "SteamParentalPIN": "0",
+        "SteamPassword": "",
+        "SteamTradeToken": null,
+        "SteamUserPermissions": {"76561198054599504": 3},
+        "TradingPreferences": 3
+}

@@ -11,6 +11,7 @@
         "Headless": false,
         "IdleFarmingPeriod": 0,
         "InventoryLimiterDelay": 3,
+        "IPC": true,
         "IPCHost": "127.0.0.1",
         "IPCPort": 1242,
         "LoginLimiterDelay": 10,

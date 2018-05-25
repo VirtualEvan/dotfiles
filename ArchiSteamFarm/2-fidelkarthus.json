@@ -1,7 +1,7 @@
 {
         "AcceptGifts": true,
-        "AutoDiscoveryQueue": true,
-        "CardDropsRestricted": false,
+        "AutoSteamSaleEvent": true,
+        "BotBehaviour": 7,
         "CustomGamePlayedWhileFarming": null,
         "CustomGamePlayedWhileIdle": null,
         "DismissInventoryNotifications": true,
@@ -10,8 +10,8 @@
         "FarmOffline": false,
         "GamesPlayedWhileIdle": [],
         "HandleOfflineMessages": false,
+        "HoursUntilCardDrops": 0,
         "IdleRefundableGames": true,
-        "IsBotAccount": true,
         "LootableTypes": [
                 1,
                 2,
@@ -33,5 +33,6 @@
         "SteamPassword": "",
         "SteamTradeToken": null,
         "SteamUserPermissions": {"76561198054599504": 3},
-        "TradingPreferences": 1
+        "TradingPreferences": 1,
+        "UseLoginKeys": true
 }

@@ -215,3 +215,7 @@ bindsym Control+Mod1+c exec chromium-browser
 bindsym Mod1+Control+Right exec "amixer -q sset Master,0 1000+ unmute"
 bindsym Mod1+Control+Left exec "amixer -q sset Master,0 1000- unmute"
 bindsym Mod1+slash exec "amixer -q sset Master,0 toggle"
+
+# Keyboard layout US, ES
+bindsym Mod4+u exec "setxkbmap us"
+bindsym Mod4+e exec "setxkbmap es"

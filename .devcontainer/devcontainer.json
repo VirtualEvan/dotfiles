@@ -1,0 +1,34 @@
+{
+    "name": "Default",
+    "settings": { 
+        "editor.renderWhitespace": "boundary",
+        "editor.fontSize": 16, 
+        "editor.tabSize": 2,
+        "editor.wordWrap": "off",
+        "workbench.colorTheme": "One Dark Pro",
+        "workbench.iconTheme": "material-icon-theme",
+        "terminal.integrated.fontFamily": "Cascadia Code PL",
+        "extensions.ignoreRecommendations": true,
+        "[python]": {
+            "editor.rulers": [
+                79
+            ]
+        },
+        "[javascript]": {
+            "editor.rulers": [
+                80
+            ]
+        },
+        "files.exclude": {
+            "**/__pycache__": true
+        }
+    },
+    "extensions": [
+        "zhuangtongfa.Material-theme",
+        "PKief.material-icon-theme",
+        "sleistner.vscode-fileutils",
+        "EditorConfig.EditorConfig",
+        "eamodio.gitlens"
+    ],
+    "forwardPorts": []
+}
